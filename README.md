@@ -14,9 +14,9 @@ It provides an official homepage, Terms of Service, and Privacy Policy for the A
 - styles.css (shared styles)
 - assets/favicon.svg (favicon placeholder)
 
-## Placeholders updated
-- Contact email: giorgigadelia130@gmail.com
-- Effective date: January 5, 2026
+## Placeholders to update
+- CONTACT_EMAIL = giorgigadelia130@gmail.com
+- EFFECTIVE_DATE = January 5, 2026
 
 ## TikTok Developer Portal URLs
 After deployment, paste these into the TikTok Developer Portal:
@@ -33,3 +33,4 @@ After deployment, paste these into the TikTok Developer Portal:
 
 ## Local check
 Open index.html in a browser and confirm the navigation links to Terms and Privacy work as expected.
+
