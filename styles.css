@@ -178,6 +178,10 @@ main.container {
   color: var(--accent);
 }
 
+.contact:hover {
+  text-decoration: underline;
+}
+
 section + section {
   margin-top: 26px;
 }

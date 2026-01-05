@@ -14,15 +14,15 @@ It provides an official homepage, Terms of Service, and Privacy Policy for the A
 - styles.css (shared styles)
 - assets/favicon.svg (favicon placeholder)
 
-## Placeholders to update
-- CONTACT_EMAIL (replace with your real contact email)
-- EFFECTIVE_DATE (set the policy effective date)
+## Configured values
+- Contact email: giorgigadelia130@gmail.com
+- Effective date: January 5, 2026
 
 ## TikTok Developer Portal URLs
 After deployment, paste these into the TikTok Developer Portal:
-- Web/Desktop URL: https://<your-render-domain>/
-- Terms of Service URL: https://<your-render-domain>/terms.html
-- Privacy Policy URL: https://<your-render-domain>/privacy.html
+- Web/Desktop URL: https://ai-tiktok-videos.onrender.com/
+- Terms of Service URL: https://ai-tiktok-videos.onrender.com/terms.html
+- Privacy Policy URL: https://ai-tiktok-videos.onrender.com/privacy.html
 
 ## Deploy on Render (static site)
 1. Push this repo to GitHub.
