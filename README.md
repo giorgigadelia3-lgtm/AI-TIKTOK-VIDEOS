@@ -14,7 +14,7 @@ It provides an official homepage, Terms of Service, and Privacy Policy for the A
 - styles.css (shared styles)
 - assets/favicon.svg (favicon placeholder)
 
-## Configured values
+## Placeholders updated
 - Contact email: giorgigadelia130@gmail.com
 - Effective date: January 5, 2026
 
